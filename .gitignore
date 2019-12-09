@@ -21,6 +21,7 @@ bld/
 .Trashes
 ehthumbs.db
 Thumbs.db
+desktop.ini
 
 # Built application files
 *.apk
